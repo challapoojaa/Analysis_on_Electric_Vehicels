@@ -48,8 +48,6 @@ The dataset used contains information on electric vehicles including:
 
 If you find this project helpful or have suggestions, feel free to open an issue or submit a pull request!
 
----
-
 ## About Me
 
 Hi, I’m **Challa Pooja**, a passionate Computer Science student who loves turning ideas into interactive web projects. I enjoy solving real-world problems through clean code, smart design, and continuous learning. Currently exploring the world of software development, data science, and everything in between!
